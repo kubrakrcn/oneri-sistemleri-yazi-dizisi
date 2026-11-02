@@ -1,6 +1,6 @@
 # 02 — Karşılıklı öneri: tıkanma ve çift sayım
 
-Yazı: **Filmin "hayır" deme hakkı yok, işverenin var**
+Yazı: **[Filmin "hayır" deme hakkı yok, işverenin var](https://medium.com/kariyertech/filmin-hay%C4%B1r-deme-hakk%C4%B1-yok-i%C5%9Fverenin-var-49d70a364c11)** · Kariyer.net Tech
 
 ## Bu klasör ne değil
 

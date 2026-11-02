@@ -11,8 +11,8 @@ indirilip çalıştırılabilir; veri kümeleri kamuya açık ve sürümleri sab
 
 | # | Yazı | Klasör |
 |---|---|---|
-| 01 | Offline kazandım, online kaybettim | [`01-offline-online/`](01-offline-online/) |
-| 02 | [Filmin "hayır" deme hakkı yok, işverenin var](https://medium.com/kariyertech/filmin-hayır-deme-hakkı-yok-işverenin-var-49d70a364c11) | [`02-karsilikli-oneri/`](02-karsilikli-oneri/) |
+| 01 | [Offline kazandım, online kaybettim](https://medium.com/kariyertech/offline-kazand%C4%B1m-online-kaybettim-cc03fea494ba) | [`01-offline-online/`](01-offline-online/) |
+| 02 | [Filmin "hayır" deme hakkı yok, işverenin var](https://medium.com/kariyertech/filmin-hay%C4%B1r-deme-hakk%C4%B1-yok-i%C5%9Fverenin-var-49d70a364c11) | [`02-karsilikli-oneri/`](02-karsilikli-oneri/) |
 | 03 | Hiçbir şey öğrenmeyen model neden herkesi yendi? | [`03-populerlik-temel-modeli/`](03-populerlik-temel-modeli/) |
 | 04 | Bir bölme işareti yüzünden kırk kat | *hazırlanıyor* |
 | 05 | Varsayılan ayarlarla çalıştırdım, model kaybetti | *hazırlanıyor* |
@@ -71,6 +71,18 @@ fikrin neden işe yaradığını ya da yaramadığını en az kodla görünür k
 Simülasyon içeren betiklerde bütün varsayımlar docstring'in başında, tek tek yazılı.
 Ölçülmüş olanla varsayılan olan ayrı ayrı işaretlendi. Bir simülasyon "gerçek hayatta da
 böyle" demez; "bu varsayımlar doğruysa şu olur" der.
+
+## Lisans
+
+İki ayrı lisans var, çünkü depoda iki ayrı tür içerik var:
+
+- **Betikler ve çıktılar** (`*.py`, `*.csv`, `*.txt`) — [MIT](LICENSE). İstediğiniz gibi
+  kullanın, değiştirin, derste gösterin.
+- **Yazı metinleri** (`yazi.md` dosyaları ve README açıklamaları) —
+  [CC BY 4.0](LICENSE-YAZILAR.md). Atıf vererek kopyalayabilir, çevirebilir,
+  uyarlayabilirsiniz.
+
+Veri kümeleri depoda yok; her biri kendi sahibinin koşullarına tabi.
 
 ## İletişim
 

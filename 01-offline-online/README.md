@@ -1,6 +1,6 @@
 # 01 — Çevrimdışı test neyi ödüllendiriyor?
 
-Yazı: **Offline kazandım, online kaybettim**
+Yazı: **[Offline kazandım, online kaybettim](https://medium.com/kariyertech/offline-kazand%C4%B1m-online-kaybettim-cc03fea494ba)** · Kariyer.net Tech
 
 ## Bu klasör ne değil
 

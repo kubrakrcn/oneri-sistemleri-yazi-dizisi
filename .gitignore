@@ -1,0 +1,6 @@
+# veri dosyaları depoya girmiyor — betikler indiriyor
+*.dat
+*.zip
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store

@@ -1,0 +1,10 @@
+protokol,model,P10,R10,NDCG10,kapsam,egitim_etkilesim,oge,degerlendirilen_kullanici,test_etkilesim
+A · zamana göre,Rastgele,0.0,0.0,0.0,0.001,724318,11216,1691,5637
+A · zamana göre,Popülerlik,0.0037,0.0115,0.0071,0.0063,724318,11216,1691,5637
+A · zamana göre,Öğe-öğe kNN,0.0045,0.0113,0.0079,0.0543,724318,11216,1691,5637
+B · rastgele,Rastgele,0.0002,0.0003,0.0002,0.0011,715973,11413,13873,53461
+B · rastgele,Popülerlik,0.0137,0.0427,0.0294,0.0047,715973,11413,13873,53461
+B · rastgele,Öğe-öğe kNN,0.0403,0.1414,0.1041,0.2273,715973,11413,13873,53461
+"B' · rastgele, A kullanıcıları",Rastgele,0.0001,0.0002,0.0001,0.0012,715973,11413,1798,13047
+"B' · rastgele, A kullanıcıları",Popülerlik,0.0211,0.0328,0.0272,0.0046,715973,11413,1798,13047
+"B' · rastgele, A kullanıcıları",Öğe-öğe kNN,0.0594,0.1275,0.1141,0.0502,715973,11413,1798,13047

@@ -1,0 +1,4 @@
+2020 test etkilesimi: 63115
+egitim katalogunda olmayan ogelere giden: 18722 (29.66%)
+2020'de ilk kez gorunen film: 1653
+zaman bolmesi egitim orani: 0.9290

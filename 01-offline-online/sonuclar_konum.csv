@@ -1,0 +1,6 @@
+model,cevrimdisi_P10,cevrimdisi_NDCG10,gercek_alaka10,politikayla_ortusme
+Kayıt politikası (popülerlik),0.0467,0.2204,0.0886,10
+Ham tıklama sayısı,0.0467,0.2204,0.0886,10
+Konum IPS,0.0464,0.2193,0.0883,9
+"Gösterim IPS (CTR, büzüşmeli)",0.0147,0.043,0.1055,1
+Gerçek alaka (oracle),0.0009,0.0038,0.1492,0
